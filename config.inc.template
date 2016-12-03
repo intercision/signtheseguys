@@ -1,6 +1,6 @@
 <?php
 
-define('WHERE','local');
+define('WHERE','GitHub');
 
 // where can be local, remote, or GitHub
 
