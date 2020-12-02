@@ -27,7 +27,7 @@ body {
 <body>
 
 <div id="wrapper">
-<h1>Sign These Guys!</h1>
+<h1>Sign These Guys NOW!</h1>
 <p>Not everybody who makes music gets played on the radio but thanks to the internet you can hear them anyway!</p>
 <p>&nbsp;</p>
 <h3>Get in the Christmas spirit with <a href="https://www.youtube.com/channel/UCn4uD3E6QRZiCfBWAk30YeA">The Golden Flamers</a></h3>
